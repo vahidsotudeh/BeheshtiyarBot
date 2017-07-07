@@ -116,6 +116,6 @@ public class BeheshtiyarBot extends TelegramLongPollingBot {
     }
 
     public String getBotToken() {
-        return "406597435:AAG7WJ0JEwhjcHKV_c9S2Ageu6T5uJR8KfE";
+        return ""; // bot token !!!
     }
 }
